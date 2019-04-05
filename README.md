@@ -1,3 +1,3 @@
-# Projeto_Curso_Git
+Empresa Fraga Tech
 
-Galeraaaaaaaaaaaaa do Papão
+Novos caminhos em IT
